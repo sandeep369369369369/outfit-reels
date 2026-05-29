@@ -2,5 +2,20 @@
   "101": {
     "cover_image": "https://placehold.co/400x600/eee/31343C?text=Cover+Image",
     "products": []
+  },
+  "001": {
+    "cover_image": "https://www.shaadidukaan.com/blog/summer-outfits-for-men.html",
+    "products": [
+      {
+        "product_image": "https://in.pinterest.com/pin/710442909986011850/",
+        "affiliate_link": "https://in.pinterest.com/pin/710442909986011850/",
+        "platform_name": "Amazon"
+      },
+      {
+        "product_image": "https://in.pinterest.com/pin/710442909986011850/",
+        "affiliate_link": "https://in.pinterest.com/pin/710442909986011850/",
+        "platform_name": "Flipkart"
+      }
+    ]
   }
 }
