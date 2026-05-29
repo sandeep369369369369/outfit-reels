@@ -1,17 +1,1 @@
-{
-  "103": {
-    "cover_image": "https://www.instagram.com",
-    "products": [
-      {
-        "product_image": "https://usa.gov.com",
-        "affiliate_link": "https://instagram.com",
-        "platform_name": "Amazon"
-      },
-      {
-        "product_image": "https://facebook.com",
-        "affiliate_link": "https://facebook.com",
-        "platform_name": "Flipkart"
-      }
-    ]
-  }
-}
+{}
