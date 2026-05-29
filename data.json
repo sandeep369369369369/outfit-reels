@@ -3,6 +3,21 @@
     "cover_image": "https://placehold.co/400x600/eee/31343C?text=Cover+Image",
     "products": []
   },
+  "103": {
+    "cover_image": "https://www.instagram.com",
+    "products": [
+      {
+        "product_image": "https://usa.gov.com",
+        "affiliate_link": "https://instagram.com",
+        "platform_name": "Amazon"
+      },
+      {
+        "product_image": "https://facebook.com",
+        "affiliate_link": "https://facebook.com",
+        "platform_name": "Flipkart"
+      }
+    ]
+  },
   "001": {
     "cover_image": "https://www.shaadidukaan.com/blog/summer-outfits-for-men.html",
     "products": [
